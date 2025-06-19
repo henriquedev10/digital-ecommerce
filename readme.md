@@ -44,7 +44,11 @@ Este projeto é uma **plataforma de e-commerce digital completa**, com foco em *
 
 ![Captura de Tela 2025-06-19 às 19 27 51](https://github.com/user-attachments/assets/d9ccb390-3fbe-422a-8d57-565bcec4c8c8)
 
-> *Substitua este arquivo pela captura de tela real do layout da loja.*
+![Captura de Tela 2025-06-19 às 19 28 14](https://github.com/user-attachments/assets/96bfbceb-acda-489f-8e49-ee2fa89375a0)
+
+![Captura de Tela 2025-06-19 às 19 28 33](https://github.com/user-attachments/assets/1ca63c25-5c84-444d-b059-eb88a8f2e8e4)
+
+![Captura de Tela 2025-06-19 às 19 28 59](https://github.com/user-attachments/assets/99f5dbc3-55d1-410f-a59b-886c3fde68fb)
 
 ---
 
